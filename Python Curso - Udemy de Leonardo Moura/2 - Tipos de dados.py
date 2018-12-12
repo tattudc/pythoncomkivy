@@ -1,0 +1,20 @@
+#Tipos de dados
+print("Isso é uma String ou cadeia de caracteres")
+print("-"*50)
+print("Quando tem numero decimal é float ")
+print(0.55)
+print("-"*50)
+print("Quando tem numero inteiro é inteiro ou int ")
+print(32)
+print("-"*50)
+print("Quando tem True ou False é boolean ")
+print(True)
+print("-"*50)
+lista=[1, "asd", 3, 4.5]
+print("Quando tem uma sequência é lista")
+print(lista)
+print("-"*50)
+print("Quando vem seguido de chaves e com um indice para cada sentença é dicionário")
+dicion = {"Primeiro": "Hoje", "Segundo": "Amanhã"}
+print(dicion)
+print("-"*50)
