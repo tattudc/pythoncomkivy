@@ -1,0 +1,13 @@
+lista = []
+print(type(lista))
+print(len(lista))
+lista.append(1)
+lista.append(5)
+print(len(lista))
+print(lista)
+lista.append(4)
+lista.append(9)
+lista.remove(5)
+print(lista)
+lista.reverse()
+print(lista)

@@ -1,0 +1,10 @@
+pessoa = {'Nome' : 'Ana', 'Idade' : 38, 'Cursos' : ['Inglês', 'Espanhol', 'Francês']}
+print(type(pessoa))
+print(len(pessoa))
+print(pessoa['Nome'])
+print(pessoa['Idade'])
+print(pessoa['Cursos'])
+print(pessoa.keys())
+print(pessoa.values())
+print(pessoa.items())
+print(pessoa.get('Idade'))
